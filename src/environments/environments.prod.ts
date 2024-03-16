@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'first-inquiry-417416@appspot.gserviceaccount.com'
+    apiUrl: 'http://127.0.0.1:5000'
   };
